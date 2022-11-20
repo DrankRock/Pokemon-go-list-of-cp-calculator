@@ -1,0 +1,794 @@
+001 	Bulbasaur 	Bulbasaur 	128 	118 	111 	1676544 	1115 	1260
+002 	Ivysaur 	Ivysaur 	155 	151 	143 	3346915 	1699 	1921
+003 	Venusaur 	Venusaur 	190 	198 	189 	7110180 	2720 	3075
+003 	Venusaur 	Venusaur	(Mega Venusaur) 	190 	241 	246 	11264340 	3698 	4181
+004 	Charmander 	Charmander 	118 	116 	93 	1272984 	980 	1108
+005 	Charmeleon 	Charmeleon 	151 	158 	126 	3006108 	1653 	1868
+006 	Charizard 	Charizard 	186 	223 	173 	7175694 	2889 	3266
+006 	Charizard 	Charizard	(Mega Charizard X) 	186 	273 	213 	10815714 	3850 	4353
+006 	Charizard 	Charizard	(Mega Charizard Y) 	186 	319 	212 	12578808 	4455 	5037
+007 	Squirtle 	Squirtle 	127 	94 	121 	1444498 	946 	1069
+008 	Wartortle 	Wartortle 	153 	126 	155 	2988090 	1488 	1682
+009 	Blastoise 	Blastoise 	188 	171 	207 	6654636 	2466 	2788
+009 	Blastoise 	Blastoise	(Mega Blastoise) 	188 	264 	237 	11762784 	3941 	4455
+010 	Caterpie 	Caterpie 	128 	55 	55 	387200 	437 	494
+011 	Metapod 	Metapod 	137 	45 	80 	493200 	450 	509
+012 	Butterfree 	Butterfree 	155 	167 	137 	3546245 	1827 	2065
+013 	Weedle 	Weedle 	120 	63 	50 	378000 	456 	515
+014 	Kakuna 	Kakuna 	128 	46 	75 	441600 	432 	488
+015 	Beedrill 	Beedrill 	163 	169 	130 	3581110 	1846 	2087
+015 	Beedrill 	Beedrill	(Mega Beedrill) 	163 	303 	148 	7309572 	3383 	3824
+016 	Pidgey 	Pidgey 	120 	85 	73 	744600 	680 	769
+017 	Pidgeotto 	Pidgeotto 	160 	117 	105 	1965600 	1194 	1350
+018 	Pidgeot 	Pidgeot 	195 	166 	154 	4984980 	2129 	2407
+018 	Pidgeot 	Pidgeot	(Mega Pidgeot) 	195 	280 	175 	9555000 	3680 	4160
+019 	Rattata 	Rattata 	102 	103 	70 	735420 	734 	830
+019 	Rattata 	Rattata	(Alolan Form) 	102 	103 	70 	735420 	734 	830
+020 	Raticate 	Raticate 	146 	161 	139 	3267334 	1730 	1956
+020 	Raticate 	Raticate	(Alolan Form) 	181 	135 	154 	3762990 	1705 	1927
+021 	Spearow 	Spearow 	120 	112 	60 	806400 	798 	902
+022 	Fearow 	Fearow 	163 	182 	133 	3945578 	1997 	2257
+023 	Ekans 	Ekans 	111 	110 	97 	1184370 	927 	1048
+024 	Arbok 	Arbok 	155 	167 	153 	3960405 	1921 	2171
+025 	Pikachu 	Pikachu 	111 	112 	96 	1193472 	938 	1060
+026 	Raichu 	Raichu 	155 	193 	151 	4517165 	2182 	2467
+026 	Raichu 	Raichu	(Alolan Form) 	155 	201 	154 	4797870 	2286 	2585
+027 	Sandshrew 	Sandshrew 	137 	126 	120 	2071440 	1261 	1426
+027 	Sandshrew 	Sandshrew	(Alolan Form) 	137 	125 	129 	2209125 	1293 	1462
+028 	Sandslash 	Sandslash 	181 	182 	175 	5764850 	2374 	2684
+028 	Sandslash 	Sandslash	(Alolan Form) 	181 	177 	195 	6247215 	2432 	2750
+029 	Nidoran♀ 	Nidoran♀ 	146 	86 	89 	1117484 	816 	922
+030 	Nidorina 	Nidorina 	172 	117 	120 	2414880 	1309 	1480
+031 	Nidoqueen 	Nidoqueen 	207 	180 	173 	6445980 	2488 	2812
+032 	Nidoran♂ 	Nidoran♂ 	130 	105 	76 	1037400 	860 	973
+033 	Nidorino 	Nidorino 	156 	137 	111 	2372292 	1393 	1575
+034 	Nidoking 	Nidoking 	191 	204 	156 	6078384 	2567 	2902
+035 	Clefairy 	Clefairy 	172 	107 	108 	1987632 	1155 	1306
+036 	Clefable 	Clefable 	216 	178 	162 	6228576 	2437 	2755
+037 	Vulpix 	Vulpix 	116 	96 	109 	1213824 	883 	998
+037 	Vulpix 	Vulpix	(Alolan Form) 	116 	96 	109 	1213824 	883 	998
+038 	Ninetales 	Ninetales 	177 	169 	190 	5683470 	2279 	2577
+038 	Ninetales 	Ninetales	(Alolan Form) 	177 	170 	193 	5807370 	2309 	2610
+039 	Jigglypuff 	Jigglypuff 	251 	80 	41 	823280 	724 	818
+040 	Wigglytuff 	Wigglytuff 	295 	156 	90 	4141800 	1926 	2178
+041 	Zubat 	Zubat 	120 	83 	73 	727080 	667 	754
+042 	Golbat 	Golbat 	181 	161 	150 	4371150 	1976 	2234
+043 	Oddish 	Oddish 	128 	131 	112 	1878016 	1228 	1389
+044 	Gloom 	Gloom 	155 	153 	136 	3225240 	1681 	1900
+045 	Vileplume 	Vileplume 	181 	202 	167 	6105854 	2559 	2893
+046 	Paras 	Paras 	111 	121 	99 	1329669 	1018 	1150
+047 	Parasect 	Parasect 	155 	165 	146 	3733950 	1859 	2102
+048 	Venonat 	Venonat 	155 	100 	100 	1550000 	1004 	1135
+049 	Venomoth 	Venomoth 	172 	179 	143 	4402684 	2082 	2354
+050 	Diglett 	Diglett 	67 	109 	78 	569634 	676 	764
+050 	Diglett 	Diglett	(Alolan Form) 	67 	108 	81 	586116 	681 	770
+051 	Dugtrio 	Dugtrio 	111 	167 	136 	2521032 	1567 	1772
+051 	Dugtrio 	Dugtrio	(Alolan Form) 	111 	201 	142 	3168162 	1897 	2145
+052 	Meowth 	Meowth 	120 	92 	78 	861120 	748 	846
+052 	Meowth 	Meowth	(Alolan Form) 	120 	99 	78 	926640 	797 	901
+052 	Meowth 	Meowth	(Galarian Form) 	137 	115 	92 	1449460 	1035 	1170
+053 	Persian 	Persian 	163 	150 	136 	3325200 	1689 	1910
+053 	Persian 	Persian	(Alolan Form) 	163 	158 	136 	3502544 	1771 	2002
+054 	Psyduck 	Psyduck 	137 	122 	95 	1587830 	1106 	1250
+055 	Golduck 	Golduck 	190 	191 	162 	5878980 	2450 	2770
+056 	Mankey 	Mankey 	120 	148 	82 	1456320 	1164 	1317
+057 	Primeape 	Primeape 	163 	207 	138 	4656258 	2288 	2586
+058 	Growlithe 	Growlithe 	146 	136 	93 	1846608 	1243 	1405
+059 	Arcanine 	Arcanine 	207 	227 	166 	7800174 	3029 	3425
+060 	Poliwag 	Poliwag 	120 	101 	82 	993840 	829 	937
+061 	Poliwhirl 	Poliwhirl 	163 	130 	123 	2606370 	1419 	1604
+062 	Poliwrath 	Poliwrath 	207 	182 	184 	6932016 	2586 	2923
+063 	Abra 	Abra 	93 	195 	82 	1487070 	1342 	1517
+064 	Kadabra 	Kadabra 	120 	232 	117 	3257280 	2059 	2328
+065 	Alakazam 	Alakazam 	146 	271 	167 	6607522 	3057 	3456
+066 	Machop 	Machop 	172 	137 	82 	1932248 	1278 	1445
+067 	Machoke 	Machoke 	190 	177 	125 	4203750 	2031 	2296
+068 	Machamp 	Machamp 	207 	234 	159 	7701642 	3056 	3455
+069 	Bellsprout 	Bellsprout 	137 	139 	61 	1161623 	1033 	1168
+070 	Weepinbell 	Weepinbell 	163 	172 	92 	2579312 	1611 	1822
+071 	Victreebel 	Victreebel 	190 	207 	135 	5309550 	2431 	2748
+072 	Tentacool 	Tentacool 	120 	97 	149 	1734360 	1040 	1176
+073 	Tentacruel 	Tentacruel 	190 	166 	209 	6591860 	2422 	2738
+074 	Geodude 	Geodude 	120 	132 	132 	2090880 	1293 	1462
+074 	Geodude 	Geodude	(Alolan Form) 	120 	132 	132 	2090880 	1293 	1462
+075 	Graveler 	Graveler 	146 	164 	164 	3926816 	1897 	2145
+075 	Graveler 	Graveler	(Alolan Form) 	146 	164 	164 	3926816 	1897 	2145
+076 	Golem 	Golem 	190 	211 	198 	7937820 	2949 	3334
+076 	Golem 	Golem	(Alolan Form) 	190 	211 	198 	7937820 	2949 	3334
+077 	Ponyta 	Ponyta 	137 	170 	127 	2957830 	1697 	1919
+077 	Ponyta 	Ponyta	(Galarian Form) 	137 	170 	127 	2957830 	1697 	1919
+078 	Rapidash 	Rapidash 	163 	207 	162 	5466042 	2461 	2782
+078 	Rapidash 	Rapidash	(Galarian Form) 	163 	207 	162 	5466042 	2461 	2782
+079 	Slowpoke 	Slowpoke 	207 	109 	98 	2211174 	1226 	1386
+079 	Slowpoke 	Slowpoke 	207 	109 	98 	2211174 	1226 	1386
+080 	Slowbro 	Slowbro 	216 	177 	180 	6881760 	2545 	2877
+080 	Slowbro 	Slowbro	(Mega Slowbro) 	216 	224 	259 	12531456 	3755 	4245
+080 	Slowbro 	Slowbro	(Galarian Form) 	216 	182 	156 	6132672 	2445 	2764
+081 	Magnemite 	Magnemite 	93 	165 	121 	1856745 	1362 	1540
+082 	Magneton 	Magneton 	137 	223 	169 	5163119 	2485 	2810
+083 	Farfetch'd 	Farfetch'd 	141 	124 	115 	2010660 	1236 	1397
+083 	Farfetch'd 	Farfetch'd	(Galarian Form) 	141 	174 	114 	2796876 	1674 	1893
+084 	Doduo 	Doduo 	111 	158 	83 	1455654 	1200 	1357
+085 	Dodrio 	Dodrio 	155 	218 	140 	4730600 	2362 	2670
+086 	Seel 	Seel 	163 	85 	121 	1676455 	971 	1098
+087 	Dewgong 	Dewgong 	207 	139 	177 	5092821 	1985 	2245
+088 	Grimer 	Grimer 	190 	135 	90 	2308500 	1374 	1553
+088 	Grimer 	Grimer	(Alolan Form) 	190 	135 	90 	2308500 	1374 	1553
+089 	Muk 	Muk 	233 	190 	172 	7614440 	2757 	3117
+089 	Muk 	Muk	(Alolan Form) 	233 	190 	172 	7614440 	2757 	3117
+090 	Shellder 	Shellder 	102 	116 	134 	1585488 	1080 	1221
+091 	Cloyster 	Cloyster 	137 	186 	256 	6523392 	2547 	2880
+092 	Gastly 	Gastly 	102 	186 	67 	1271124 	1229 	1390
+093 	Haunter 	Haunter 	128 	223 	107 	3054208 	1963 	2219
+094 	Gengar 	Gengar 	155 	261 	149 	6027795 	2878 	3254
+094 	Gengar 	Gengar	(Mega Gengar) 	155 	349 	199 	10764905 	4336 	4902
+095 	Onix 	Onix 	111 	85 	232 	2188920 	1101 	1245
+096 	Drowzee 	Drowzee 	155 	89 	136 	1876120 	1040 	1176
+097 	Hypno 	Hypno 	198 	144 	193 	5502816 	2090 	2363
+098 	Krabby 	Krabby 	102 	181 	124 	2289288 	1561 	1764
+099 	Kingler 	Kingler 	146 	240 	181 	6342240 	2829 	3198
+100 	Voltorb 	Voltorb 	120 	109 	111 	1451880 	1010 	1141
+101 	Electrode 	Electrode 	155 	173 	173 	4638995 	2099 	2373
+102 	Exeggcute 	Exeggcute 	155 	107 	125 	2073125 	1175 	1328
+103 	Exeggutor 	Exeggutor 	216 	233 	149 	7498872 	3014 	3408
+103 	Exeggutor 	Exeggutor	(Alolan Form) 	216 	230 	153 	7601040 	3014 	3407
+104 	Cubone 	Cubone 	137 	90 	144 	1775520 	1019 	1152
+105 	Marowak 	Marowak 	155 	144 	186 	4151520 	1835 	2075
+105 	Marowak 	Marowak	(Alolan Form) 	155 	144 	186 	4151520 	1835 	2075
+106 	Hitmonlee 	Hitmonlee 	137 	224 	181 	5554528 	2576 	2912
+107 	Hitmonchan 	Hitmonchan 	137 	193 	197 	5208877 	2332 	2636
+108 	Lickitung 	Lickitung 	207 	108 	137 	3062772 	1411 	1595
+109 	Koffing 	Koffing 	120 	119 	141 	2013480 	1214 	1373
+110 	Weezing 	Weezing 	163 	174 	197 	5587314 	2293 	2592
+110 	Weezing 	Weezing	(Galarian Form) 	163 	174 	197 	5587314 	2293 	2592
+111 	Rhyhorn 	Rhyhorn 	190 	140 	127 	3378200 	1651 	1867
+112 	Rhydon 	Rhydon 	233 	222 	171 	8845146 	3179 	3594
+113 	Chansey 	Chansey 	487 	60 	128 	3740160 	1255 	1418
+114 	Tangela 	Tangela 	163 	183 	169 	5041101 	2238 	2530
+115 	Kangaskhan 	Kangaskhan 	233 	181 	165 	6958545 	2586 	2924
+116 	Horsea 	Horsea 	102 	129 	103 	1355274 	1056 	1194
+117 	Seadra 	Seadra 	146 	187 	156 	4259112 	2093 	2366
+118 	Goldeen 	Goldeen 	128 	123 	110 	1731840 	1152 	1302
+119 	Seaking 	Seaking 	190 	175 	147 	4887750 	2162 	2444
+120 	Staryu 	Staryu 	102 	137 	112 	1565088 	1157 	1308
+121 	Starmie 	Starmie 	155 	210 	184 	5989200 	2584 	2922
+122 	Mr. Mime 	Mr. Mime 	120 	192 	205 	4723200 	2228 	2518
+123 	Scyther 	Scyther 	172 	218 	170 	6374320 	2706 	3060
+124 	Jynx 	Jynx 	163 	223 	151 	5488699 	2555 	2888
+125 	Electabuzz 	Electabuzz 	163 	198 	158 	5099292 	2334 	2639
+126 	Magmar 	Magmar 	163 	206 	154 	5171012 	2394 	2706
+127 	Pinsir 	Pinsir 	163 	238 	182 	7060508 	2959 	3345
+128 	Tauros 	Tauros 	181 	198 	183 	6558354 	2620 	2962
+129 	Magikarp 	Magikarp 	85 	29 	85 	209525 	274 	310
+130 	Gyarados 	Gyarados 	216 	237 	186 	9521712 	3391 	3834
+130 	Gyarados 	Gyarados	(Mega Gyarados) 	216 	292 	216 	13623552 	4429 	5007
+131 	Lapras 	Lapras 	277 	165 	174 	7952670 	2641 	2985
+132 	Ditto 	Ditto 	134 	91 	91 	1109654 	832 	940
+133 	Eevee 	Eevee 	146 	104 	114 	1730976 	1071 	1210
+134 	Vaporeon 	Vaporeon 	277 	205 	161 	9142385 	3114 	3521
+135 	Jolteon 	Jolteon 	163 	232 	182 	6882512 	2888 	3265
+136 	Flareon 	Flareon 	163 	246 	179 	7177542 	3029 	3424
+137 	Porygon 	Porygon 	163 	153 	136 	3391704 	1720 	1944
+138 	Omanyte 	Omanyte 	111 	155 	153 	2632365 	1544 	1746
+139 	Omastar 	Omastar 	172 	207 	201 	7156404 	2786 	3150
+140 	Kabuto 	Kabuto 	102 	148 	140 	2113440 	1370 	1549
+141 	Kabutops 	Kabutops 	155 	220 	186 	6342600 	2713 	3067
+142 	Aerodactyl 	Aerodactyl 	190 	221 	159 	6676410 	2783 	3147
+143 	Snorlax 	Snorlax 	330 	190 	169 	10596300 	3225 	3647
+144 	Articuno 	Articuno 	207 	192 	236 	9379584 	3051 	3450
+145 	Zapdos 	Zapdos 	207 	253 	185 	9688635 	3527 	3987
+146 	Moltres 	Moltres 	207 	251 	181 	9404217 	3465 	3917
+147 	Dratini 	Dratini 	121 	119 	91 	1310309 	1004 	1136
+148 	Dragonair 	Dragonair 	156 	163 	135 	3432780 	1780 	2012
+149 	Dragonite 	Dragonite 	209 	263 	198 	10883466 	3792 	4287
+150 	Mewtwo 	Mewtwo 	214 	300 	182 	11684400 	4178 	4724
+150 	Mewtwo 	Mewtwo	(Armored Mewtwo) 	214 	182 	278 	10827544 	3187 	3603
+151 	Mew 	Mew 	225 	210 	210 	9922500 	3265 	3691
+152 	Chikorita 	Chikorita 	128 	92 	122 	1436672 	935 	1057
+153 	Bayleef 	Bayleef 	155 	122 	155 	2931050 	1454 	1644
+154 	Meganium 	Meganium 	190 	168 	202 	6447840 	2410 	2725
+155 	Cyndaquil 	Cyndaquil 	118 	116 	93 	1272984 	980 	1108
+156 	Quilava 	Quilava 	151 	158 	126 	3006108 	1653 	1868
+157 	Typhlosion 	Typhlosion 	186 	223 	173 	7175694 	2889 	3266
+158 	Totodile 	Totodile 	137 	117 	109 	1747161 	1131 	1279
+159 	Croconaw 	Croconaw 	163 	150 	142 	3471900 	1722 	1947
+160 	Feraligatr 	Feraligatr 	198 	205 	188 	7630920 	2857 	3230
+161 	Sentret 	Sentret 	111 	79 	73 	640137 	618 	698
+162 	Furret 	Furret 	198 	148 	125 	3663000 	1758 	1987
+163 	Hoothoot 	Hoothoot 	155 	67 	88 	913880 	677 	766
+164 	Noctowl 	Noctowl 	225 	145 	156 	5089500 	2024 	2288
+165 	Ledyba 	Ledyba 	120 	72 	118 	1019520 	728 	823
+166 	Ledian 	Ledian 	146 	107 	179 	2796338 	1346 	1522
+167 	Spinarak 	Spinarak 	120 	105 	73 	919800 	816 	923
+168 	Ariados 	Ariados 	172 	161 	124 	3433808 	1772 	2003
+169 	Crobat 	Crobat 	198 	194 	178 	6837336 	2646 	2992
+170 	Chinchou 	Chinchou 	181 	106 	97 	1861042 	1119 	1265
+171 	Lanturn 	Lanturn 	268 	146 	137 	5360536 	2085 	2357
+172 	Pichu 	Pichu 	85 	77 	53 	346885 	473 	535
+173 	Cleffa 	Cleffa 	137 	75 	79 	811725 	671 	759
+174 	Igglybuff 	Igglybuff 	207 	69 	32 	457056 	535 	605
+175 	Togepi 	Togepi 	111 	67 	116 	862692 	657 	743
+176 	Togetic 	Togetic 	146 	139 	181 	3673214 	1708 	1931
+177 	Natu 	Natu 	120 	134 	89 	1431120 	1102 	1246
+178 	Xatu 	Xatu 	163 	192 	146 	4569216 	2188 	2474
+179 	Mareep 	Mareep 	146 	114 	79 	1314876 	991 	1120
+180 	Flaaffy 	Flaaffy 	172 	145 	109 	2718460 	1521 	1720
+181 	Ampharos 	Ampharos 	207 	211 	169 	7381413 	2852 	3225
+181 	Ampharos 	Ampharos	(Mega Ampharos) 	207 	294 	203 	12354174 	4245 	4799
+182 	Bellossom 	Bellossom 	181 	169 	186 	5689554 	2281 	2578
+183 	Marill 	Marill 	172 	37 	93 	591852 	461 	521
+184 	Azumarill 	Azumarill 	225 	112 	152 	3830400 	1588 	1795
+185 	Sudowoodo 	Sudowoodo 	172 	167 	176 	5055424 	2148 	2428
+186 	Politoed 	Politoed 	207 	174 	179 	6447222 	2449 	2769
+187 	Hoppip 	Hoppip 	111 	67 	94 	699078 	600 	678
+188 	Skiploom 	Skiploom 	146 	91 	120 	1594320 	976 	1103
+189 	Jumpluff 	Jumpluff 	181 	118 	183 	3908514 	1636 	1850
+190 	Aipom 	Aipom 	146 	136 	112 	2223872 	1348 	1524
+191 	Sunkern 	Sunkern 	102 	55 	55 	308550 	395 	447
+192 	Sunflora 	Sunflora 	181 	185 	135 	4520475 	2141 	2421
+193 	Yanma 	Yanma 	163 	154 	94 	2359588 	1470 	1662
+194 	Wooper 	Wooper 	146 	75 	66 	722700 	641 	725
+195 	Quagsire 	Quagsire 	216 	152 	143 	4694976 	1992 	2252
+196 	Espeon 	Espeon 	163 	261 	175 	7445025 	3170 	3583
+197 	Umbreon 	Umbreon 	216 	126 	240 	6531840 	2137 	2416
+198 	Murkrow 	Murkrow 	155 	175 	87 	2359875 	1562 	1766
+199 	Slowking 	Slowking 	216 	177 	180 	6881760 	2545 	2877
+200 	Misdreavus 	Misdreavus 	155 	167 	154 	3986290 	1926 	2178
+201 	Unown 	Unown 	134 	136 	91 	1658384 	1185 	1339
+202 	Wobbuffet 	Wobbuffet 	382 	60 	106 	2429520 	1026 	1160
+203 	Girafarig 	Girafarig 	172 	182 	133 	4163432 	2046 	2314
+204 	Pineco 	Pineco 	137 	108 	122 	1805112 	1108 	1253
+205 	Forretress 	Forretress 	181 	161 	205 	5973905 	2282 	2580
+206 	Dunsparce 	Dunsparce 	225 	131 	128 	3772800 	1689 	1909
+207 	Gligar 	Gligar 	163 	143 	184 	4288856 	1857 	2099
+208 	Steelix 	Steelix 	181 	148 	272 	7286336 	2414 	2729
+209 	Snubbull 	Snubbull 	155 	137 	85 	1804975 	1237 	1399
+210 	Granbull 	Granbull 	207 	212 	131 	5748804 	2552 	2885
+211 	Qwilfish 	Qwilfish 	163 	184 	138 	4138896 	2051 	2318
+212 	Scizor 	Scizor 	172 	236 	181 	7347152 	3001 	3393
+213 	Shuckle 	Shuckle 	85 	17 	396 	572220 	405 	458
+214 	Heracross 	Heracross 	190 	234 	179 	7958340 	3101 	3506
+215 	Sneasel 	Sneasel 	146 	189 	146 	4028724 	2051 	2319
+216 	Teddiursa 	Teddiursa 	155 	142 	93 	2046930 	1328 	1502
+217 	Ursaring 	Ursaring 	207 	236 	144 	7034688 	2945 	3329
+218 	Slugma 	Slugma 	120 	118 	71 	1005360 	895 	1011
+219 	Magcargo 	Magcargo 	137 	139 	191 	3637213 	1702 	1924
+220 	Swinub 	Swinub 	137 	90 	69 	850770 	741 	837
+221 	Piloswine 	Piloswine 	225 	181 	138 	5620050 	2345 	2652
+222 	Corsola 	Corsola 	146 	118 	156 	2687568 	1378 	1558
+223 	Remoraid 	Remoraid 	111 	127 	69 	972693 	912 	1031
+224 	Octillery 	Octillery 	181 	197 	141 	5027637 	2315 	2617
+225 	Delibird 	Delibird 	128 	128 	90 	1474560 	1094 	1237
+226 	Mantine 	Mantine 	163 	148 	226 	5452024 	2108 	2383
+227 	Skarmory 	Skarmory 	163 	148 	226 	5452024 	2108 	2383
+228 	Houndour 	Houndour 	128 	152 	83 	1614848 	1234 	1395
+229 	Houndoom 	Houndoom 	181 	224 	144 	5838336 	2635 	2979
+229 	Houndoom 	Houndoom	(Mega Houndoom) 	181 	289 	194 	10147946 	3842 	4344
+230 	Kingdra 	Kingdra 	181 	194 	194 	6812116 	2641 	2986
+231 	Phanpy 	Phanpy 	207 	107 	98 	2170602 	1206 	1364
+232 	Donphan 	Donphan 	207 	214 	185 	8195130 	3013 	3407
+233 	Porygon2 	Porygon2 	198 	198 	180 	7056720 	2711 	3065
+234 	Stantler 	Stantler 	177 	192 	131 	4451904 	2164 	2447
+235 	Smeargle 	Smeargle 	146 	40 	83 	484720 	431 	487
+236 	Tyrogue 	Tyrogue 	111 	64 	64 	454656 	492 	556
+237 	Hitmontop 	Hitmontop 	137 	173 	207 	4906107 	2156 	2438
+238 	Smoochum 	Smoochum 	128 	153 	91 	1782144 	1291 	1460
+239 	Elekid 	Elekid 	128 	135 	101 	1745280 	1206 	1364
+240 	Magby 	Magby 	128 	151 	99 	1913472 	1323 	1496
+241 	Miltank 	Miltank 	216 	157 	193 	6545016 	2354 	2662
+242 	Blissey 	Blissey 	496 	129 	169 	10813296 	2757 	3117
+243 	Raikou 	Raikou 	207 	241 	195 	9727965 	3452 	3902
+244 	Entei 	Entei 	251 	235 	171 	10086435 	3473 	3926
+245 	Suicune 	Suicune 	225 	180 	235 	9517500 	2983 	3372
+246 	Larvitar 	Larvitar 	137 	115 	93 	1465215 	1040 	1176
+247 	Pupitar 	Pupitar 	172 	155 	133 	3545780 	1766 	1996
+248 	Tyranitar 	Tyranitar 	225 	251 	207 	11690325 	3834 	4335
+249 	Lugia 	Lugia 	235 	193 	310 	14060050 	3703 	4186
+250 	Ho-Oh 	Ho-Oh 	214 	239 	244 	12479624 	3863 	4367
+251 	Celebi 	Celebi 	225 	210 	210 	9922500 	3265 	3691
+252 	Treecko 	Treecko 	120 	124 	94 	1398720 	1053 	1190
+253 	Grovyle 	Grovyle 	137 	172 	120 	2827680 	1673 	1891
+254 	Sceptile 	Sceptile 	172 	223 	169 	6482164 	2757 	3117
+255 	Torchic 	Torchic 	128 	130 	87 	1447680 	1093 	1236
+256 	Combusken 	Combusken 	155 	163 	115 	2905475 	1652 	1868
+257 	Blaziken 	Blaziken 	190 	240 	141 	6429600 	2848 	3219
+258 	Mudkip 	Mudkip 	137 	126 	93 	1605366 	1128 	1275
+259 	Marshtomp 	Marshtomp 	172 	156 	133 	3568656 	1776 	2008
+260 	Swampert 	Swampert 	225 	208 	175 	8190000 	2974 	3362
+261 	Poochyena 	Poochyena 	111 	96 	61 	650016 	678 	766
+262 	Mightyena 	Mightyena 	172 	171 	132 	3882384 	1926 	2177
+263 	Zigzagoon 	Zigzagoon 	116 	58 	80 	538240 	508 	575
+263 	Zigzagoon 	Zigzagoon	(Galarian Form) 	116 	58 	80 	538240 	508 	575
+264 	Linoone 	Linoone 	186 	142 	128 	3380736 	1662 	1879
+264 	Linoone 	Linoone	(Galarian Form) 	186 	142 	128 	3380736 	1662 	1879
+265 	Wurmple 	Wurmple 	128 	75 	59 	566400 	578 	653
+266 	Silcoon 	Silcoon 	137 	60 	77 	632940 	553 	626
+267 	Beautifly 	Beautifly 	155 	189 	98 	2870910 	1765 	1996
+268 	Cascoon 	Cascoon 	137 	60 	77 	632940 	553 	626
+269 	Dustox 	Dustox 	155 	98 	162 	2460780 	1224 	1384
+270 	Lotad 	Lotad 	120 	71 	77 	656040 	598 	676
+271 	Lombre 	Lombre 	155 	112 	119 	2065840 	1197 	1353
+272 	Ludicolo 	Ludicolo 	190 	173 	176 	5785120 	2323 	2626
+273 	Seedot 	Seedot 	120 	71 	77 	656040 	598 	676
+274 	Nuzleaf 	Nuzleaf 	172 	134 	78 	1797744 	1227 	1387
+275 	Shiftry 	Shiftry 	207 	200 	121 	5009400 	2333 	2637
+276 	Taillow 	Taillow 	120 	106 	61 	775920 	765 	865
+277 	Swellow 	Swellow 	155 	185 	124 	3555700 	1920 	2170
+278 	Wingull 	Wingull 	120 	106 	61 	775920 	765 	865
+279 	Pelipper 	Pelipper 	155 	175 	174 	4719750 	2127 	2404
+280 	Ralts 	Ralts 	99 	79 	59 	461439 	539 	609
+281 	Kirlia 	Kirlia 	116 	117 	90 	1221480 	966 	1093
+282 	Gardevoir 	Gardevoir 	169 	237 	195 	7810335 	3093 	3497
+283 	Surskit 	Surskit 	120 	93 	87 	970920 	791 	894
+284 	Masquerain 	Masquerain 	172 	192 	150 	4953600 	2270 	2567
+285 	Shroomish 	Shroomish 	155 	74 	110 	1261700 	810 	916
+286 	Breloom 	Breloom 	155 	241 	144 	5379120 	2628 	2971
+287 	Slakoth 	Slakoth 	155 	104 	92 	1483040 	1002 	1133
+288 	Vigoroth 	Vigoroth 	190 	159 	145 	4380450 	1968 	2225
+289 	Slaking 	Slaking 	284 	290 	166 	13671760 	4431 	5010
+290 	Nincada 	Nincada 	104 	80 	126 	1048320 	768 	868
+291 	Ninjask 	Ninjask 	156 	199 	112 	3476928 	1969 	2226
+292 	Shedinja 	Shedinja 	1 	153 	73 	11169 	393 	445
+293 	Whismur 	Whismur 	162 	92 	42 	625968 	671 	758
+294 	Loudred 	Loudred 	197 	134 	81 	2138238 	1327 	1500
+295 	Exploud 	Exploud 	232 	179 	137 	5689336 	2347 	2654
+296 	Makuhita 	Makuhita 	176 	99 	54 	940896 	817 	924
+297 	Hariyama 	Hariyama 	302 	209 	114 	7195452 	2829 	3198
+298 	Azurill 	Azurill 	137 	36 	71 	350172 	364 	411
+299 	Nosepass 	Nosepass 	102 	82 	215 	1798260 	993 	1123
+300 	Skitty 	Skitty 	137 	84 	79 	909132 	739 	835
+301 	Delcatty 	Delcatty 	172 	132 	127 	2883408 	1496 	1691
+302 	Sableye 	Sableye 	137 	141 	136 	2627112 	1476 	1668
+303 	Mawile 	Mawile 	137 	155 	141 	2994135 	1634 	1848
+304 	Aron 	Aron 	137 	121 	141 	2337357 	1307 	1478
+305 	Lairon 	Lairon 	155 	158 	198 	4849020 	2056 	2324
+306 	Aggron 	Aggron 	172 	198 	257 	8752392 	3000 	3391
+307 	Meditite 	Meditite 	102 	78 	107 	851292 	693 	784
+308 	Medicham 	Medicham 	155 	121 	152 	2850760 	1431 	1618
+309 	Electrike 	Electrike 	120 	123 	78 	1151280 	965 	1091
+310 	Manectric 	Manectric 	172 	215 	127 	4696460 	2340 	2646
+310 	Manectric 	Manectric	(Mega Manectric) 	172 	286 	179 	8805368 	3580 	4048
+311 	Plusle 	Plusle 	155 	167 	129 	3339165 	1778 	2010
+312 	Minun 	Minun 	155 	147 	150 	3417750 	1694 	1915
+313 	Volbeat 	Volbeat 	163 	143 	166 	3869294 	1771 	2002
+314 	Illumise 	Illumise 	163 	143 	166 	3869294 	1771 	2002
+315 	Roselia 	Roselia 	137 	186 	131 	3338142 	1870 	2114
+316 	Gulpin 	Gulpin 	172 	80 	99 	1362240 	866 	979
+317 	Swalot 	Swalot 	225 	140 	159 	5008500 	1978 	2236
+318 	Carvanha 	Carvanha 	128 	171 	39 	853632 	1020 	1154
+319 	Sharpedo 	Sharpedo 	172 	243 	83 	3469068 	2181 	2466
+320 	Wailmer 	Wailmer 	277 	136 	68 	2561696 	1468 	1659
+321 	Wailord 	Wailord 	347 	175 	87 	5283075 	2280 	2577
+322 	Numel 	Numel 	155 	119 	79 	1457155 	1057 	1196
+323 	Camerupt 	Camerupt 	172 	194 	136 	4538048 	2193 	2479
+324 	Torkoal 	Torkoal 	172 	151 	203 	5272316 	2093 	2366
+325 	Spoink 	Spoink 	155 	125 	122 	2363750 	1334 	1508
+326 	Grumpig 	Grumpig 	190 	171 	188 	6108120 	2369 	2679
+327 	Spinda 	Spinda 	155 	116 	116 	2085680 	1220 	1380
+328 	Trapinch 	Trapinch 	128 	162 	78 	1617408 	1274 	1441
+329 	Vibrava 	Vibrava 	137 	134 	99 	1817442 	1225 	1384
+330 	Flygon 	Flygon 	190 	205 	168 	6543600 	2661 	3008
+331 	Cacnea 	Cacnea 	137 	156 	74 	1581528 	1242 	1404
+332 	Cacturne 	Cacturne 	172 	221 	115 	4371380 	2298 	2598
+333 	Swablu 	Swablu 	128 	76 	132 	1284096 	824 	931
+334 	Altaria 	Altaria 	181 	141 	201 	5129721 	2004 	2266
+334 	Altaria 	Altaria	(Mega Altaria) 	181 	222 	218 	8759676 	3163 	3576
+335 	Zangoose 	Zangoose 	177 	222 	124 	4872456 	2418 	2733
+336 	Seviper 	Seviper 	177 	196 	118 	4093656 	2105 	2380
+337 	Lunatone 	Lunatone 	207 	178 	153 	5637438 	2327 	2631
+338 	Solrock 	Solrock 	207 	178 	153 	5637438 	2327 	2631
+339 	Barboach 	Barboach 	137 	93 	82 	1044762 	819 	925
+340 	Whiscash 	Whiscash 	242 	151 	141 	5152422 	2075 	2346
+341 	Corphish 	Corphish 	125 	141 	99 	1744875 	1230 	1391
+342 	Crawdaunt 	Crawdaunt 	160 	224 	142 	5089280 	2474 	2797
+343 	Baltoy 	Baltoy 	120 	77 	124 	1145760 	787 	889
+344 	Claydol 	Claydol 	155 	140 	229 	4969300 	1971 	2229
+345 	Lileep 	Lileep 	165 	105 	150 	2598750 	1291 	1460
+346 	Cradily 	Cradily 	200 	152 	194 	5897600 	2211 	2499
+347 	Anorith 	Anorith 	128 	176 	100 	2252800 	1529 	1729
+348 	Armaldo 	Armaldo 	181 	222 	174 	6991668 	2848 	3220
+349 	Feebas 	Feebas 	85 	29 	85 	209525 	274 	310
+350 	Milotic 	Milotic 	216 	192 	219 	9082368 	3005 	3398
+351 	Castform 	Castform 	172 	139 	139 	3323212 	1632 	1845
+351 	Castform 	Castform	(Rainy Form) 	172 	139 	139 	3323212 	1632 	1845
+351 	Castform 	Castform	(Snowy Form) 	172 	139 	139 	3323212 	1632 	1845
+351 	Castform 	Castform	(Sunny Form) 	172 	139 	139 	3323212 	1632 	1845
+352 	Kecleon 	Kecleon 	155 	161 	189 	4716495 	2047 	2314
+353 	Shuppet 	Shuppet 	127 	138 	65 	1139190 	1018 	1151
+354 	Banette 	Banette 	162 	218 	126 	4449816 	2298 	2599
+355 	Duskull 	Duskull 	85 	70 	162 	963900 	706 	798
+356 	Dusclops 	Dusclops 	120 	124 	234 	3481920 	1591 	1799
+357 	Tropius 	Tropius 	223 	136 	163 	4943464 	1941 	2194
+358 	Chimecho 	Chimecho 	181 	175 	170 	5384750 	2259 	2554
+359 	Absol 	Absol 	163 	246 	120 	4811760 	2526 	2856
+360 	Wynaut 	Wynaut 	216 	41 	86 	761616 	534 	603
+361 	Snorunt 	Snorunt 	137 	95 	95 	1236425 	888 	1004
+362 	Glalie 	Glalie 	190 	162 	162 	4986360 	2105 	2380
+363 	Spheal 	Spheal 	172 	95 	90 	1470600 	962 	1088
+364 	Sealeo 	Sealeo 	207 	137 	132 	3743388 	1714 	1938
+365 	Walrein 	Walrein 	242 	182 	176 	7751744 	2726 	3081
+366 	Clamperl 	Clamperl 	111 	133 	135 	1993005 	1270 	1436
+367 	Huntail 	Huntail 	146 	197 	179 	5148398 	2340 	2645
+368 	Gorebyss 	Gorebyss 	146 	211 	179 	5514274 	2494 	2820
+369 	Relicanth 	Relicanth 	225 	162 	203 	7399350 	2528 	2858
+370 	Luvdisc 	Luvdisc 	125 	81 	128 	1296000 	848 	959
+371 	Bagon 	Bagon 	128 	134 	93 	1595136 	1156 	1307
+372 	Shelgon 	Shelgon 	163 	172 	155 	4345580 	2031 	2296
+373 	Salamence 	Salamence 	216 	277 	168 	10051776 	3749 	4239
+374 	Beldum 	Beldum 	120 	96 	132 	1520640 	976 	1104
+375 	Metang 	Metang 	155 	138 	176 	3764640 	1721 	1946
+376 	Metagross 	Metagross 	190 	257 	228 	11133240 	3791 	4286
+377 	Regirock 	Regirock 	190 	179 	309 	10509090 	3122 	3530
+378 	Regice 	Regice 	190 	179 	309 	10509090 	3122 	3530
+379 	Registeel 	Registeel 	190 	143 	285 	7743450 	2447 	2766
+380 	Latias 	Latias 	190 	228 	246 	10656720 	3510 	3968
+381 	Latios 	Latios 	190 	268 	212 	10795040 	3812 	4310
+382 	Kyogre 	Kyogre 	205 	270 	228 	12619800 	4115 	4652
+383 	Groudon 	Groudon 	205 	270 	228 	12619800 	4115 	4652
+384 	Rayquaza 	Rayquaza 	213 	284 	170 	10283640 	3835 	4336
+385 	Jirachi 	Jirachi 	225 	210 	210 	9922500 	3265 	3691
+386 	Deoxys 	Deoxys	(Normal Forme) 	137 	345 	115 	5435475 	3160 	3573
+386 	Deoxys 	Deoxys	(Attack Forme) 	137 	414 	46 	2609028 	2580 	2916
+386 	Deoxys 	Deoxys	(Defense Forme) 	137 	144 	330 	6510240 	2274 	2570
+386 	Deoxys 	Deoxys	(Speed Forme) 	137 	230 	218 	6869180 	2879 	3255
+387 	Turtwig 	Turtwig 	146 	119 	110 	1911140 	1187 	1342
+388 	Grotle 	Grotle 	181 	157 	143 	4063631 	1890 	2137
+389 	Torterra 	Torterra 	216 	202 	188 	8202816 	2934 	3318
+390 	Chimchar 	Chimchar 	127 	113 	86 	1234186 	957 	1082
+391 	Monferno 	Monferno 	162 	158 	105 	2687580 	1574 	1780
+392 	Infernape 	Infernape 	183 	222 	151 	6134526 	2683 	3033
+393 	Piplup 	Piplup 	142 	112 	102 	1622208 	1075 	1215
+394 	Prinplup 	Prinplup 	162 	150 	139 	3377700 	1701 	1923
+395 	Empoleon 	Empoleon 	197 	210 	186 	7694820 	2900 	3279
+396 	Starly 	Starly 	120 	101 	58 	702960 	719 	813
+397 	Staravia 	Staravia 	146 	142 	94 	1948808 	1299 	1468
+398 	Staraptor 	Staraptor 	198 	234 	140 	6486480 	2825 	3194
+399 	Bidoof 	Bidoof 	153 	80 	73 	893520 	721 	815
+400 	Bibarel 	Bibarel 	188 	162 	119 	3624264 	1823 	2061
+401 	Kricketot 	Kricketot 	114 	45 	74 	379620 	401 	453
+402 	Kricketune 	Kricketune 	184 	160 	100 	2944000 	1653 	1869
+403 	Shinx 	Shinx 	128 	117 	64 	958464 	876 	990
+404 	Luxio 	Luxio 	155 	159 	95 	2341275 	1486 	1680
+405 	Luxray 	Luxray 	190 	232 	156 	6876480 	2888 	3265
+406 	Budew 	Budew 	120 	91 	109 	1190280 	856 	968
+407 	Roserade 	Roserade 	155 	243 	185 	6968025 	2971 	3359
+408 	Cranidos 	Cranidos 	167 	218 	71 	2584826 	1820 	2058
+409 	Rampardos 	Rampardos 	219 	295 	109 	7041945 	3298 	3728
+410 	Shieldon 	Shieldon 	102 	76 	195 	1511640 	890 	1007
+411 	Bastiodon 	Bastiodon 	155 	94 	286 	4167020 	1539 	1741
+412 	Burmy 	Burmy 	120 	53 	83 	527880 	488 	552
+413 	Wormadam 	Wormadam	(Plant Cloak) 	155 	141 	180 	3933900 	1773 	2005
+413 	Wormadam 	Wormadam	(Sandy Cloak) 	155 	141 	180 	3933900 	1773 	2005
+413 	Wormadam 	Wormadam	(Trash Cloak) 	155 	127 	175 	3444875 	1593 	1802
+414 	Mothim 	Mothim 	172 	185 	98 	3118360 	1815 	2052
+415 	Combee 	Combee 	102 	59 	83 	499494 	494 	559
+416 	Vespiquen 	Vespiquen 	172 	149 	190 	4869320 	2005 	2267
+417 	Pachirisu 	Pachirisu 	155 	94 	172 	2506040 	1213 	1372
+418 	Buizel 	Buizel 	146 	132 	67 	1291224 	1054 	1192
+419 	Floatzel 	Floatzel 	198 	221 	114 	4988412 	2443 	2762
+420 	Cherubi 	Cherubi 	128 	108 	92 	1271808 	950 	1074
+421 	Cherrim 	Cherrim	(Overcast Form) 	172 	170 	153 	4473720 	2048 	2315
+421 	Cherrim 	Cherrim	(Sunshine Form) 	172 	170 	153 	4473720 	2048 	2315
+422 	Shellos 	Shellos	(West SEa) 	183 	103 	105 	1979145 	1136 	1284
+422 	Shellos 	Shellos	(East Sea) 	183 	103 	105 	1979145 	1136 	1284
+423 	Gastrodon 	Gastrodon	(West Sea) 	244 	169 	143 	5896748 	2324 	2628
+423 	Gastrodon 	Gastrodon	(East Sea) 	244 	169 	143 	5896748 	2324 	2628
+424 	Ambipom 	Ambipom 	181 	205 	143 	5306015 	2418 	2733
+425 	Drifloon 	Drifloon 	207 	117 	80 	1937520 	1197 	1353
+426 	Drifblim 	Drifblim 	312 	180 	102 	5728320 	2382 	2693
+427 	Buneary 	Buneary 	146 	130 	105 	1992900 	1258 	1423
+428 	Lopunny 	Lopunny 	163 	156 	194 	4933032 	2059 	2328
+428 	Lopunny 	Lopunny	(Mega Lopunny) 	163 	282 	214 	9836724 	3745 	4234
+429 	Mismagius 	Mismagius 	155 	211 	187 	6115835 	2615 	2957
+430 	Honchkrow 	Honchkrow 	225 	243 	103 	5631525 	2711 	3065
+431 	Glameow 	Glameow 	135 	109 	82 	1206630 	934 	1056
+432 	Purugly 	Purugly 	174 	172 	133 	3980424 	1953 	2208
+433 	Chingling 	Chingling 	128 	114 	94 	1371648 	1005 	1137
+434 	Stunky 	Stunky 	160 	121 	90 	1742400 	1151 	1301
+435 	Skuntank 	Skuntank 	230 	184 	132 	5586240 	2358 	2666
+436 	Bronzor 	Bronzor 	149 	43 	154 	986678 	603 	681
+437 	Bronzong 	Bronzong 	167 	161 	213 	5726931 	2239 	2531
+438 	Bonsly 	Bonsly 	137 	124 	133 	2259404 	1302 	1472
+439 	Mime Jr. 	Mime Jr. 	85 	125 	142 	1508750 	1095 	1238
+440 	Happiny 	Happiny 	225 	25 	77 	433125 	371 	419
+441 	Chatot 	Chatot 	183 	183 	91 	3047499 	1791 	2025
+442 	Spiritomb 	Spiritomb 	137 	169 	199 	4607447 	2072 	2343
+443 	Gible 	Gible 	151 	124 	84 	1572816 	1112 	1258
+444 	Gabite 	Gabite 	169 	172 	125 	3633500 	1874 	2119
+445 	Garchomp 	Garchomp 	239 	261 	193 	12039147 	3962 	4479
+446 	Munchlax 	Munchlax 	286 	137 	117 	4584294 	1892 	2139
+447 	Riolu 	Riolu 	120 	127 	78 	1188720 	993 	1123
+448 	Lucario 	Lucario 	172 	236 	144 	5845248 	2703 	3056
+449 	Hippopotas 	Hippopotas 	169 	124 	118 	2472808 	1358 	1535
+450 	Hippowdon 	Hippowdon 	239 	201 	191 	9175449 	3085 	3488
+451 	Skorupi 	Skorupi 	120 	93 	151 	1685160 	1009 	1141
+452 	Drapion 	Drapion 	172 	180 	202 	6253920 	2453 	2773
+453 	Croagunk 	Croagunk 	134 	116 	76 	1181344 	952 	1077
+454 	Toxicroak 	Toxicroak 	195 	211 	133 	5472285 	2488 	2813
+455 	Carnivine 	Carnivine 	179 	187 	136 	4552328 	2159 	2441
+456 	Finneon 	Finneon 	135 	96 	116 	1503360 	971 	1098
+457 	Lumineon 	Lumineon 	170 	142 	170 	4103800 	1814 	2050
+458 	Mantyke 	Mantyke 	128 	105 	179 	2405760 	1248 	1411
+459 	Snover 	Snover 	155 	115 	105 	1871625 	1159 	1311
+460 	Abomasnow 	Abomasnow 	207 	178 	158 	5821668 	2362 	2670
+460 	Abomasnow 	Abomasnow	(Mega Abomasnow) 	207 	240 	191 	9488880 	3405 	3850
+461 	Weavile 	Weavile 	172 	243 	171 	7147116 	3005 	3397
+462 	Magnezone 	Magnezone 	172 	238 	205 	8391880 	3205 	3623
+463 	Lickilicky 	Lickilicky 	242 	161 	181 	7052122 	2467 	2789
+464 	Rhyperior 	Rhyperior 	251 	241 	190 	11493290 	3733 	4221
+465 	Tangrowth 	Tangrowth 	225 	207 	184 	8569800 	3030 	3425
+466 	Electivire 	Electivire 	181 	249 	163 	7346247 	3079 	3481
+467 	Magmortar 	Magmortar 	181 	247 	172 	7689604 	3132 	3541
+468 	Togekiss 	Togekiss 	198 	225 	217 	9667350 	3332 	3767
+469 	Yanmega 	Yanmega 	200 	231 	156 	7207200 	2946 	3330
+470 	Leafeon 	Leafeon 	163 	216 	219 	7710552 	2944 	3328
+471 	Glaceon 	Glaceon 	163 	238 	205 	7952770 	3126 	3535
+472 	Gliscor 	Gliscor 	181 	185 	222 	7433670 	2692 	3043
+473 	Mamoswine 	Mamoswine 	242 	247 	146 	8727004 	3328 	3763
+474 	Porygon-Z 	Porygon-Z 	198 	264 	150 	7840800 	3266 	3693
+475 	Gallade 	Gallade 	169 	237 	195 	7810335 	3093 	3497
+476 	Probopass 	Probopass 	155 	135 	275 	5754375 	2080 	2351
+477 	Dusknoir 	Dusknoir 	128 	180 	254 	5852160 	2388 	2700
+478 	Froslass 	Froslass 	172 	171 	150 	4411800 	2040 	2306
+479 	Rotom 	Rotom 	137 	185 	159 	4029855 	2031 	2296
+479 	Rotom 	Rotom	(Fan Rotom) 	137 	204 	219 	6120612 	2579 	2916
+479 	Rotom 	Rotom	(Frost Rotom) 	137 	204 	219 	6120612 	2579 	2916
+479 	Rotom 	Rotom	(Heat Rotom) 	137 	204 	219 	6120612 	2579 	2916
+479 	Rotom 	Rotom	(Mow Rotom) 	137 	204 	219 	6120612 	2579 	2916
+479 	Rotom 	Rotom	(Wash Rotom) 	137 	204 	219 	6120612 	2579 	2916
+480 	Uxie 	Uxie 	181 	156 	270 	7623720 	2524 	2853
+481 	Mesprit 	Mesprit 	190 	212 	212 	8539360 	3058 	3457
+482 	Azelf 	Azelf 	181 	270 	151 	7379370 	3210 	3629
+483 	Dialga 	Dialga 	205 	275 	211 	11895125 	4038 	4565
+484 	Palkia 	Palkia 	189 	280 	215 	11377800 	3991 	4512
+485 	Heatran 	Heatran 	209 	251 	213 	11173767 	3754 	4244
+486 	Regigigas 	Regigigas 	221 	287 	210 	13319670 	4346 	4913
+487 	Giratina 	Giratina	(Altered Forme) 	284 	187 	225 	11949300 	3379 	3820
+487 	Giratina 	Giratina	(Origin Forme) 	284 	225 	187 	11949300 	3683 	4164
+488 	Cresselia 	Cresselia 	260 	152 	258 	10196160 	2857 	3230
+489 	Phione 	Phione 	190 	162 	162 	4986360 	2105 	2380
+490 	Manaphy 	Manaphy 	225 	210 	210 	9922500 	3265 	3691
+491 	Darkrai 	Darkrai 	172 	285 	198 	9705960 	3739 	4227
+492 	Shaymin 	Shaymin	(Land Forme) 	225 	210 	210 	9922500 	3265 	3691
+492 	Shaymin 	Shaymin	(Sky Forme) 	225 	261 	166 	9748350 	3592 	4061
+493 	Arceus 	Arceus 	237 	238 	238 	13424628 	3989 	4510
+494 	Victini 	Victini 	225 	210 	210 	9922500 	3265 	3691
+495 	Snivy 	Snivy 	128 	88 	107 	1205248 	849 	960
+496 	Servine 	Servine 	155 	122 	152 	2874320 	1441 	1629
+497 	Serperior 	Serperior 	181 	161 	204 	5944764 	2277 	2574
+498 	Tepig 	Tepig 	163 	115 	85 	1593325 	1083 	1224
+499 	Pignite 	Pignite 	207 	173 	106 	3795966 	1924 	2175
+500 	Emboar 	Emboar 	242 	235 	127 	7222490 	2982 	3372
+501 	Oshawott 	Oshawott 	146 	117 	85 	1451970 	1046 	1182
+502 	Dewott 	Dewott 	181 	159 	116 	3338364 	1741 	1968
+503 	Samurott 	Samurott 	216 	212 	157 	7189344 	2826 	3194
+504 	Patrat 	Patrat 	128 	98 	73 	915712 	791 	895
+505 	Watchog 	Watchog 	155 	165 	139 	3554925 	1819 	2056
+506 	Lillipup 	Lillipup 	128 	107 	86 	1177856 	915 	1035
+507 	Herdier 	Herdier 	163 	145 	126 	2978010 	1583 	1789
+508 	Stoutland 	Stoutland 	198 	206 	182 	7423416 	2827 	3196
+509 	Purrloin 	Purrloin 	121 	98 	73 	865634 	772 	872
+510 	Liepard 	Liepard 	162 	187 	106 	3211164 	1846 	2087
+511 	Pansage 	Pansage 	137 	104 	94 	1339312 	956 	1081
+512 	Simisage 	Simisage 	181 	206 	133 	4959038 	2350 	2657
+513 	Pansear 	Pansear 	137 	104 	94 	1339312 	956 	1081
+514 	Simisear 	Simisear 	181 	206 	133 	4959038 	2350 	2657
+515 	Panpour 	Panpour 	137 	104 	94 	1339312 	956 	1081
+516 	Simipour 	Simipour 	181 	206 	133 	4959038 	2350 	2657
+517 	Munna 	Munna 	183 	111 	92 	1868796 	1145 	1294
+518 	Musharna 	Musharna 	253 	183 	166 	7685634 	2723 	3079
+519 	Pidove 	Pidove 	137 	98 	80 	1074080 	848 	958
+520 	Tranquill 	Tranquill 	158 	144 	107 	2434464 	1442 	1631
+521 	Unfezant 	Unfezant 	190 	226 	146 	6269240 	2734 	3091
+522 	Blitzle 	Blitzle 	128 	118 	64 	966656 	882 	998
+523 	Zebstrika 	Zebstrika 	181 	211 	136 	5193976 	2428 	2745
+524 	Roggenrola 	Roggenrola 	146 	121 	110 	1943260 	1205 	1362
+525 	Boldore 	Boldore 	172 	174 	143 	4279704 	2029 	2293
+526 	Gigalith 	Gigalith 	198 	226 	201 	8994348 	3228 	3650
+527 	Woobat 	Woobat 	163 	107 	85 	1482485 	1016 	1149
+528 	Swoobat 	Swoobat 	167 	161 	119 	3199553 	1716 	1940
+529 	Drilbur 	Drilbur 	155 	154 	85 	2028950 	1376 	1555
+530 	Excadrill 	Excadrill 	242 	255 	129 	7960590 	3244 	3667
+531 	Audino 	Audino 	230 	114 	163 	4273860 	1682 	1902
+532 	Timburr 	Timburr 	181 	134 	87 	2110098 	1315 	1487
+533 	Gurdurr 	Gurdurr 	198 	180 	134 	4775760 	2169 	2452
+534 	Conkeldurr 	Conkeldurr 	233 	243 	158 	8945802 	3337 	3773
+535 	Tympole 	Tympole 	137 	98 	78 	1047228 	839 	948
+536 	Palpitoad 	Palpitoad 	181 	128 	109 	2525312 	1392 	1574
+537 	Seismitoad 	Seismitoad 	233 	188 	150 	6570600 	2564 	2899
+538 	Throh 	Throh 	260 	172 	160 	7155200 	2562 	2896
+539 	Sawk 	Sawk 	181 	231 	153 	6397083 	2788 	3152
+540 	Sewaddle 	Sewaddle 	128 	96 	124 	1523712 	977 	1105
+541 	Swadloon 	Swadloon 	146 	115 	162 	2719980 	1370 	1549
+542 	Leavanny 	Leavanny 	181 	205 	165 	6122325 	2580 	2917
+543 	Venipede 	Venipede 	102 	83 	99 	838134 	706 	799
+544 	Whirlipede 	Whirlipede 	120 	100 	173 	2076000 	1144 	1293
+545 	Scolipede 	Scolipede 	155 	203 	175 	5506375 	2447 	2766
+546 	Cottonee 	Cottonee 	120 	71 	111 	945720 	700 	791
+547 	Whimsicott 	Whimsicott 	155 	164 	176 	4473920 	2014 	2277
+548 	Petilil 	Petilil 	128 	119 	91 	1386112 	1030 	1164
+549 	Lilligant 	Lilligant 	172 	214 	155 	5705240 	2550 	2883
+550 	Basculin 	Basculin	(Red-Striped Form) 	172 	189 	129 	4193532 	2090 	2363
+550 	Basculin 	Basculin	(Blue-Striped Form) 	172 	189 	129 	4193532 	2090 	2363
+551 	Sandile 	Sandile 	137 	132 	69 	1247796 	1037 	1172
+552 	Krokorok 	Krokorok 	155 	155 	90 	2162250 	1418 	1603
+553 	Krookodile 	Krookodile 	216 	229 	158 	7815312 	3046 	3444
+554 	Darumaka 	Darumaka 	172 	153 	86 	2263176 	1442 	1630
+554 	Darumaka 	Darumaka	(Galarian Form) 	172 	153 	86 	2263176 	1442 	1630
+555 	Darmanitan 	Darmanitan	(Standard Mode) 	233 	263 	114 	6985806 	3105 	3511
+555 	Darmanitan 	Darmanitan	(Zen Mode) 	233 	243 	202 	11437038 	3738 	4226
+555 	Darmanitan 	Darmanitan	(Galarian Form, Standard Mode) 	233 	263 	114 	6985806 	3105 	3511
+555 	Darmanitan 	Darmanitan	(Galarian Form, Zen Mode) 	233 	323 	123 	9256857 	3905 	4415
+556 	Maractus 	Maractus 	181 	201 	130 	4729530 	2274 	2571
+557 	Dwebble 	Dwebble 	137 	118 	128 	2069248 	1224 	1384
+558 	Crustle 	Crustle 	172 	188 	200 	6467200 	2542 	2874
+559 	Scraggy 	Scraggy 	137 	132 	132 	2387088 	1372 	1551
+560 	Scrafty 	Scrafty 	163 	163 	222 	5898318 	2283 	2581
+561 	Sigilyph 	Sigilyph 	176 	204 	167 	5995968 	2550 	2883
+562 	Yamask 	Yamask 	116 	95 	141 	1553820 	982 	1110
+563 	Cofagrigus 	Cofagrigus 	151 	163 	237 	5833281 	2273 	2570
+564 	Tirtouga 	Tirtouga 	144 	134 	146 	2817216 	1488 	1683
+565 	Carracosta 	Carracosta 	179 	192 	197 	6770496 	2621 	2964
+566 	Archen 	Archen 	146 	213 	89 	2767722 	1842 	2083
+567 	Archeops 	Archeops 	181 	292 	139 	7346428 	3331 	3766
+568 	Trubbish 	Trubbish 	137 	96 	122 	1604544 	1000 	1131
+569 	Garbodor 	Garbodor 	190 	181 	164 	5639960 	2345 	2651
+570 	Zorua 	Zorua 	120 	153 	78 	1432080 	1175 	1329
+571 	Zoroark 	Zoroark 	155 	250 	127 	4921250 	2571 	2907
+572 	Minccino 	Minccino 	146 	98 	80 	1144640 	872 	986
+573 	Cinccino 	Cinccino 	181 	198 	130 	4658940 	2242 	2535
+574 	Gothita 	Gothita 	128 	98 	112 	1404928 	951 	1075
+575 	Gothorita 	Gothorita 	155 	137 	153 	3248955 	1604 	1813
+576 	Gothitelle 	Gothitelle 	172 	176 	205 	6205760 	2419 	2735
+577 	Solosis 	Solosis 	128 	170 	83 	1806080 	1367 	1546
+578 	Duosion 	Duosion 	163 	208 	103 	3492112 	2018 	2282
+579 	Reuniclus 	Reuniclus 	242 	214 	148 	7664624 	2927 	3309
+580 	Ducklett 	Ducklett 	158 	84 	96 	1274112 	856 	968
+581 	Swanna 	Swanna 	181 	182 	132 	4348344 	2088 	2361
+582 	Vanillite 	Vanillite 	113 	118 	106 	1413404 	1033 	1168
+583 	Vanillish 	Vanillish 	139 	151 	138 	2896482 	1591 	1799
+584 	Vanilluxe 	Vanilluxe 	174 	218 	184 	6979488 	2822 	3190
+585 	Deerling 	Deerling 	155 	115 	100 	1782500 	1135 	1283
+586 	Sawsbuck 	Sawsbuck 	190 	198 	146 	5492520 	2416 	2732
+587 	Emolga 	Emolga 	146 	158 	127 	2929636 	1633 	1847
+588 	Karrablast 	Karrablast 	137 	137 	87 	1632903 	1182 	1336
+589 	Escavalier 	Escavalier 	172 	223 	187 	7172572 	2889 	3266
+590 	Foongus 	Foongus 	170 	97 	91 	1500590 	979 	1107
+591 	Amoonguss 	Amoonguss 	249 	155 	139 	5364705 	2140 	2420
+592 	Frillish 	Frillish 	146 	115 	134 	2249860 	1257 	1421
+593 	Jellicent 	Jellicent 	225 	159 	178 	6367950 	2338 	2644
+594 	Alomomola 	Alomomola 	338 	138 	131 	6110364 	2169 	2452
+595 	Joltik 	Joltik 	137 	110 	98 	1476860 	1023 	1156
+596 	Galvantula 	Galvantula 	172 	201 	128 	4425216 	2206 	2494
+597 	Ferroseed 	Ferroseed 	127 	82 	155 	1614170 	941 	1064
+598 	Ferrothorn 	Ferrothorn 	179 	158 	223 	6306886 	2321 	2624
+599 	Klink 	Klink 	120 	98 	121 	1422960 	956 	1081
+600 	Klang 	Klang 	155 	150 	174 	4045500 	1847 	2088
+601 	Klinklang 	Klinklang 	155 	199 	214 	6600830 	2637 	2981
+602 	Tynamo 	Tynamo 	111 	105 	78 	909090 	811 	917
+603 	Eelektrik 	Eelektrik 	163 	156 	130 	3305640 	1715 	1939
+604 	Eelektross 	Eelektross 	198 	217 	152 	6530832 	2732 	3089
+605 	Elgyem 	Elgyem 	146 	148 	100 	2160800 	1385 	1566
+606 	Beheeyem 	Beheeyem 	181 	221 	163 	6520163 	2753 	3112
+607 	Litwick 	Litwick 	137 	108 	98 	1450008 	1006 	1138
+608 	Lampent 	Lampent 	155 	169 	115 	3012425 	1708 	1931
+609 	Chandelure 	Chandelure 	155 	271 	182 	7644910 	3268 	3695
+610 	Axew 	Axew 	130 	154 	101 	2022020 	1368 	1547
+611 	Fraxure 	Fraxure 	165 	212 	123 	4302540 	2234 	2526
+612 	Haxorus 	Haxorus 	183 	284 	172 	8939184 	3593 	4062
+613 	Cubchoo 	Cubchoo 	146 	128 	74 	1382912 	1069 	1208
+614 	Beartic 	Beartic 	216 	233 	152 	7649856 	3042 	3439
+615 	Cryogonal 	Cryogonal 	190 	190 	218 	7869800 	2798 	3163
+616 	Shelmet 	Shelmet 	137 	72 	140 	1380960 	834 	942
+617 	Accelgor 	Accelgor 	190 	220 	120 	5016000 	2441 	2760
+618 	Stunfisk 	Stunfisk 	240 	144 	171 	5909760 	2162 	2445
+618 	Stunfisk 	Stunfisk	(Galarian Form) 	240 	144 	171 	5909760 	2162 	2445
+619 	Mienfoo 	Mienfoo 	128 	160 	98 	2007040 	1389 	1570
+620 	Mienshao 	Mienshao 	163 	258 	127 	5340858 	2710 	3064
+621 	Druddigon 	Druddigon 	184 	213 	170 	6662640 	2732 	3088
+622 	Golett 	Golett 	153 	127 	92 	1787652 	1189 	1344
+623 	Golurk 	Golurk 	205 	222 	154 	7008540 	2854 	3226
+624 	Pawniard 	Pawniard 	128 	154 	114 	2247168 	1433 	1620
+625 	Bisharp 	Bisharp 	163 	232 	176 	6655616 	2844 	3215
+626 	Bouffalant 	Bouffalant 	216 	195 	182 	7665840 	2797 	3163
+627 	Rufflet 	Rufflet 	172 	150 	97 	2502600 	1491 	1686
+628 	Braviary 	Braviary 	225 	232 	152 	7934400 	3088 	3491
+629 	Vullaby 	Vullaby 	172 	105 	139 	2510340 	1271 	1437
+630 	Mandibuzz 	Mandibuzz 	242 	129 	205 	6399690 	2138 	2417
+631 	Heatmor 	Heatmor 	198 	204 	129 	5210568 	2395 	2708
+632 	Durant 	Durant 	151 	217 	188 	6160196 	2659 	3007
+633 	Deino 	Deino 	141 	116 	93 	1521108 	1062 	1200
+634 	Zweilous 	Zweilous 	176 	159 	135 	3777840 	1839 	2079
+635 	Hydreigon 	Hydreigon 	211 	256 	188 	10155008 	3625 	4098
+636 	Larvesta 	Larvesta 	146 	156 	107 	2437032 	1496 	1692
+637 	Volcarona 	Volcarona 	198 	264 	189 	9879408 	3632 	4106
+638 	Cobalion 	Cobalion 	209 	192 	229 	9189312 	3022 	3417
+639 	Terrakion 	Terrakion 	209 	260 	192 	10433280 	3698 	4181
+640 	Virizion 	Virizion 	209 	192 	229 	9189312 	3022 	3417
+641 	Tornadus 	Tornadus	(Incarnate Forme) 	188 	266 	164 	8201312 	3345 	3782
+641 	Tornadus 	Tornadus	(Therian Forme) 	188 	238 	189 	8456616 	3215 	3635
+642 	Thundurus 	Thundurus	(Incarnate Forme) 	188 	266 	164 	8201312 	3345 	3782
+642 	Thundurus 	Thundurus	(Therian Forme) 	188 	295 	161 	8929060 	3659 	4137
+643 	Reshiram 	Reshiram 	205 	275 	211 	11895125 	4038 	4565
+644 	Zekrom 	Zekrom 	205 	275 	211 	11895125 	4038 	4565
+645 	Landorus 	Landorus	(Incarnate Forme) 	205 	261 	182 	9737910 	3588 	4057
+645 	Landorus 	Landorus	(Therian Forme) 	205 	289 	179 	10604855 	3922 	4434
+646 	Kyurem 	Kyurem 	245 	246 	170 	10245900 	3575 	4041
+646 	Kyurem 	Kyurem	(Black Kyurem) 	245 	310 	183 	13898850 	4605 	5206
+646 	Kyurem 	Kyurem	(White Kyurem) 	245 	310 	183 	13898850 	4605 	5206
+647 	Keldeo 	Keldeo 	209 	260 	192 	10433280 	3698 	4181
+648 	Meloetta 	Meloetta	(Aria Forme) 	225 	250 	225 	12656250 	3972 	4490
+648 	Meloetta 	Meloetta	(Pirouette Forme) 	225 	269 	188 	11378700 	3915 	4426
+649 	Genesect 	Genesect 	174 	252 	199 	8725752 	3353 	3791
+650 	Chespin 	Chespin 	148 	110 	106 	1725680 	1096 	1239
+651 	Quilladin 	Quilladin 	156 	146 	156 	3553056 	1719 	1943
+652 	Chesnaught 	Chesnaught 	204 	201 	204 	8364816 	2954 	3340
+653 	Fennekin 	Fennekin 	120 	116 	102 	1419840 	1028 	1162
+654 	Braixen 	Braixen 	153 	171 	130 	3401190 	1813 	2049
+655 	Delphox 	Delphox 	181 	230 	189 	7868070 	3059 	3459
+656 	Froakie 	Froakie 	121 	122 	84 	1240008 	992 	1122
+657 	Frogadier 	Frogadier 	144 	168 	114 	2757888 	1636 	1850
+658 	Greninja 	Greninja 	176 	223 	152 	5965696 	2654 	3001
+659 	Bunnelby 	Bunnelby 	116 	68 	72 	567936 	553 	625
+660 	Diggersby 	Diggersby 	198 	112 	155 	3437280 	1509 	1706
+661 	Fletchling 	Fletchling 	128 	95 	80 	972800 	800 	905
+662 	Fletchinder 	Fletchinder 	158 	145 	110 	2520100 	1469 	1661
+663 	Talonflame 	Talonflame 	186 	176 	155 	5074080 	2205 	2493
+664 	Scatterbug 	Scatterbug 	116 	63 	63 	460404 	492 	556
+665 	Spewpa 	Spewpa 	128 	48 	89 	546816 	479 	542
+666 	Vivillon 	Vivillon 	190 	176 	103 	3444320 	1855 	2097
+667 	Litleo 	Litleo 	158 	139 	112 	2459744 	1425 	1611
+668 	Pyroar 	Pyroar 	200 	221 	149 	6585800 	2767 	3129
+668 	Pyroar 	Pyroar 	200 	221 	149 	6585800 	2767 	3129
+669 	Flabébé 	Flabébé 	127 	108 	120 	1645920 	1063 	1202
+670 	Floette 	Floette 	144 	136 	151 	2957184 	1532 	1732
+671 	Florges 	Florges 	186 	212 	244 	9621408 	3234 	3657
+672 	Skiddo 	Skiddo 	165 	123 	102 	2070090 	1250 	1414
+673 	Gogoat 	Gogoat 	265 	196 	146 	7583240 	2798 	3163
+674 	Pancham 	Pancham 	167 	145 	107 	2591005 	1489 	1683
+675 	Pangoro 	Pangoro 	216 	226 	146 	7127136 	2902 	3281
+676 	Furfrou 	Furfrou 	181 	164 	167 	4957228 	2111 	2387
+677 	Espurr 	Espurr 	158 	120 	114 	2161440 	1259 	1424
+678 	Meowstic 	Meowstic 	179 	166 	167 	4962238 	2124 	2401
+678 	Meowstic 	Meowstic 	179 	166 	167 	4962238 	2124 	2401
+682 	Spritzee 	Spritzee 	186 	110 	113 	2311980 	1252 	1415
+683 	Aromatisse 	Aromatisse 	226 	173 	150 	5864700 	2341 	2647
+684 	Swirlix 	Swirlix 	158 	109 	119 	2049418 	1179 	1333
+685 	Slurpuff 	Slurpuff 	193 	168 	163 	5285112 	2199 	2486
+686 	Inkay 	Inkay 	142 	98 	95 	1322020 	927 	1048
+687 	Malamar 	Malamar 	200 	177 	165 	5841000 	2359 	2667
+688 	Binacle 	Binacle 	123 	96 	120 	1416960 	946 	1069
+689 	Barbaracle 	Barbaracle 	176 	194 	205 	6999520 	2675 	3025
+690 	Skrelp 	Skrelp 	137 	109 	109 	1627697 	1063 	1202
+691 	Dragalge 	Dragalge 	163 	177 	207 	5972157 	2383 	2694
+692 	Clauncher 	Clauncher 	137 	108 	117 	1731132 	1088 	1230
+693 	Clawitzer 	Clawitzer 	174 	221 	171 	6575634 	2763 	3124
+694 	Helioptile 	Helioptile 	127 	115 	78 	1139190 	933 	1054
+695 	Heliolisk 	Heliolisk 	158 	219 	168 	5813136 	2600 	2939
+696 	Tyrunt 	Tyrunt 	151 	158 	123 	2934534 	1635 	1848
+697 	Tyrantrum 	Tyrantrum 	193 	227 	191 	8367901 	3128 	3537
+698 	Amaura 	Amaura 	184 	124 	109 	2486944 	1363 	1541
+699 	Aurorus 	Aurorus 	265 	186 	163 	8034270 	2802 	3168
+700 	Sylveon 	Sylveon 	216 	203 	205 	8988840 	3069 	3470
+701 	Hawlucha 	Hawlucha 	186 	195 	153 	5549310 	2410 	2724
+702 	Dedenne 	Dedenne 	167 	164 	134 	3669992 	1841 	2081
+703 	Carbink 	Carbink 	137 	95 	285 	3709275 	1467 	1658
+704 	Goomy 	Goomy 	128 	101 	112 	1447936 	976 	1103
+705 	Sliggoo 	Sliggoo 	169 	159 	176 	4729296 	2037 	2303
+706 	Goodra 	Goodra 	207 	220 	242 	11020680 	3505 	3963
+707 	Klefki 	Klefki 	149 	160 	179 	4267360 	1949 	2204
+708 	Phantump 	Phantump 	125 	125 	103 	1609375 	1123 	1270
+709 	Trevenant 	Trevenant 	198 	201 	154 	6128892 	2559 	2893
+712 	Bergmite 	Bergmite 	146 	117 	120 	2049840 	1215 	1374
+713 	Avalugg 	Avalugg 	216 	196 	240 	10160640 	3198 	3615
+714 	Noibat 	Noibat 	120 	83 	73 	727080 	667 	754
+715 	Noivern 	Noivern 	198 	205 	175 	7103250 	2764 	3125
+716 	Xerneas 	Xerneas 	246 	250 	185 	11377500 	3781 	4275
+717 	Yveltal 	Yveltal 	246 	250 	185 	11377500 	3781 	4275
+808 	Meltan 	Meltan 	130 	118 	99 	1518660 	1068 	1207
+809 	Melmetal 	Melmetal 	264 	226 	190 	11336160 	3599 	4069
+862 	Obstagoon 	Obstagoon 	212 	180 	194 	7403040 	2652 	2999
+863 	Perrserker 	Perrserker 	172 	195 	162 	5433480 	2386 	2697
+865 	Sirfetch'd 	Sirfetch'd 	158 	248 	176 	6896384 	2985 	3375
+866 	Mr. Rime 	Mr. Rime 	190 	212 	179 	7210120 	2827 	3196
+867 	Runerigus 	Runerigus 	151 	163 	237 	5833281 	2273 	2570
