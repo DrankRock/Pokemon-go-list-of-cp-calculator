@@ -5,13 +5,15 @@ import sys
 
 CHERCHER_NUMERO=-1
 MAX_LEVEL = 50
+MIN_LEVEL = 0
 useFile = False
 
-parser = argparse.ArgumentParser(description='Check if a set of weekly activities would overlap if put together.')
+parser = argparse.ArgumentParser(description='Python script to determine all the pokemon/level/iv combination that have a given CP count. ')
 parser.add_argument('-m', '--mega', help='Authorize the research of mega pokemon.', required=False, action='store_true')
 parser.add_argument('-n', '--number', help='Search for a specific pokemon by number.', required=False, action='store', nargs=1)
 parser.add_argument('-i', '--input', help='input CP you are looking for.', required=True, action='store', nargs=1)
 parser.add_argument('-l', '--maxlevel', help='Sets a maximum level for found pokemons', required=False, action='store', nargs=1)
+parser.add_argument('-x', '--minlevel', help='Sets a minimum level for found pokemons', required=False, action='store', nargs=1)
 parser.add_argument('-o', '--output', help='Output file to store results', required=False, action='store', nargs=1)
 
 args = parser.parse_args()
@@ -24,6 +26,8 @@ if args.number != None :
 search_CP = int(args.input[0])
 if args.maxlevel != None :
 	MAX_LEVEL = int(args.maxlevel[0])
+if args.minlevel != None :
+	MIN_LEVEL = int(args.minlevel[0])
 
 if args.output != None :
 	outputfile = open(args.output[0], 'w')
@@ -69,7 +73,7 @@ with open("Base_Pogo_Stats.csv", 'r') as f :
 		defn = int(current[5+add])
 		if search:
 			for level in np.arange(1, 50.5, 0.5):
-				if level <= MAX_LEVEL:
+				if level <= MAX_LEVEL and level >= MIN_LEVEL:
 					for individual_atk in range(1, 16) :
 						for individual_def in range(1, 16) :
 							for individual_hp in range(1, 16) :
