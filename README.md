@@ -3,20 +3,21 @@ Python script to determine all the pokemon/level/iv combination that have a give
 
 Please note that I see no other use to this than a game in communities consisting of sharing screenshots of specific pokemons of specific cp.
 
+Format of the output :  
+`<number> : <name> [<level>] - ATK:<attack> - DEF:<defense> - STA:<stamina>`
+
 ## Installation
 ```console
 git clone https://github.com/DrankRock/Pokemon-go-list-of-cp-calculator.git
 cd Pokemon-go-list-of-cp-calculator
 python3 -m pip install -r requirements.txt
-python3 theGamePogo.py -i 1234
 ```
 
 ## Usage
 ```console
-usage: theGamePogo.py [-h] [-m] [-n NUMBER] -i INPUT [-l MAXLEVEL] [-o OUTPUT]
+usage: theGamePogo.py [-h] [-m] [-n NUMBER] -i INPUT [-l MAXLEVEL] [-x MINLEVEL] [-o OUTPUT]
 
-Python script to determine all the pokemon/level/iv combination that have a
-given CP count.
+Python script to determine all the pokemon/level/iv combination that have a given CP count.
 
 options:
   -h, --help            show this help message and exit
@@ -27,6 +28,8 @@ options:
                         input CP you are looking for.
   -l MAXLEVEL, --maxlevel MAXLEVEL
                         Sets a maximum level for found pokemons
+  -x MINLEVEL, --minlevel MINLEVEL
+                        Sets a minimum level for found pokemons
   -o OUTPUT, --output OUTPUT
                         Output file to store results
 ```
